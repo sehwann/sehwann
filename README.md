@@ -32,7 +32,7 @@ const sehwan = {
         },
         Firmware: {
             microcontroller: ["STM32", "AT32", "PIC", "TI"],
-            IDE: ["STM32CUBEIDE", "KEIL", "MPLAB", "CCS", "VisualStudio", "PyCharm"]
+            IDE: ["STM32CUBEIDE", "KEIL", "MPLAB", "CCS", "VisualStudio", "PyCharm"],
         },
         etc: ["Git", "System Programming(Linux)"],
     },
