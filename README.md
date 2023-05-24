@@ -1,16 +1,52 @@
-### Hi there 👋
+<div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+개발자+박세환입니다+💻✨&center=true&size=20">
+  </a>
+</h1>
 
-<!--
-**sehwann/sehwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### 안녕하세요, 박세환입니다. 👋
+  제 깃허브를 방문해주셔서 감사합니다. <br>
+  함께 성장하는 개발 문화를 지향하며 가치있는 지식을 공유하려 노력합니다 :) <br>
+  <br>
+  
+### 👩🏻‍💻 Experiences 👩🏻‍💻
+**💻 한국공학대학교. 전자공학전공**    
+**🎨Embedded Developer**     
+ - 스타트업 PETABREW Radar Embedded 개발자 `(2021.08 - Present)`     
+ - 한국공학대학교 졸업 `(2022.02)`
+ - 2021 프로보노 공모전 은상 입상 `(2021.12)`   
+ - 한국산업기술대학교 CP-CoP 참여 및 대상 입상 `(2021.09)`   
+ - K-Digital Training AI제조 1기 수료 및 자격증 취득`(2021.08)`   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+  
+### ⚒️ Tech Stack ⚒️
+  
+```js
+const sehwan = {
+    code: ["C", "Python"],
+    technologies: {
+        Hardware: {
+            circuit : ["Orcad Capture"],
+        },
+        Firmware: {
+            microcontroller: ["STM32", "AT32", "PIC", "TI"],
+            IDE: ["STM32CUBEIDE", "KEIL", "MPLAB", "CCS", "VisualStudio", "PyCharm"]
+        },
+        etc: ["Git", "System Programming(Linux)"],
+    },
+    interesting: ["Clean Code", "Refactoring"],
+};
+```
+  
+<br>
+  
+  ### 📧 Contact 📧
+  
+ 📧 **Email** : psh681061@naver.com
+ 💻 **Github** : https://github.com/sehwann
+ 👩🏻‍💻 **Portfolio** : http://www.sehwanworld.com
+ ✏️ **Blog** : https://sehwann.github.io/
+  <br>
+</div>
