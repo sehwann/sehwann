@@ -44,9 +44,9 @@ const sehwan = {
   
   ### 📧 Contact 📧
   
- 📧 **Email** : psh681061@naver.com
- 💻 **Github** : https://github.com/sehwann
- 👩🏻‍💻 **Portfolio** : http://www.sehwanworld.com
- ✏️ **Blog** : https://sehwann.github.io/
+ 📧 **Email** : psh681061@naver.com <br>
+ 💻 **Github** : https://github.com/sehwann <br>
+ 👩🏻‍💻 **Portfolio** : http://www.sehwanworld.com <br>
+ ✏️ **Blog** : https://sehwann.github.io <br>
   <br>
 </div>
