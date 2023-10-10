@@ -33,7 +33,7 @@ const sehwan = {
             circuit : ["Orcad Capture"],
         },
         Firmware: {
-            microcontroller: ["STM32", "AT32", "PIC", "TI"],
+            microcontroller: ["STM32", "AT32", "PIC", "TI", "Nordic"],
             IDE: ["STM32CUBEIDE", "KEIL", "MPLAB", "CCS", "VisualStudio", "PyCharm"],
         },
         etc: ["Git", "System Programming(Linux)"],
